@@ -1,0 +1,113 @@
+.flex_contenedor {
+
+    display: flex;
+    width: 800px;
+    height: 900;
+}
+
+.encabezado {
+
+    display: flex;
+    width: 800px;
+    height: 70px;
+    background-color: #fefeff;
+
+}
+
+.barra_navegacion {
+
+    display: flex;
+    width: 550px;
+    margin-left: 40px;
+    margin-right: 50px;
+    align-items: center;
+}
+
+.barra_izquierda {
+
+    display: flex;
+    background-color: #980133;
+    width: 150px;
+    height: 70px;
+}
+
+.barra_derecha {
+
+    display: flex;
+    width: 150px;
+    height: 70px;
+    background-color: #980133;
+    align-items: center;
+    justify-content: center;
+}
+
+.search {
+
+    display: flex;
+    width: 100px;
+    height: 70px;
+    justify-content: center;
+    margin-left: 10px;
+
+}
+
+.menu_derecho {
+
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #8b8a8b;
+    justify-content: center;
+    width: 105px;
+    height: 600px;
+
+}
+
+.centro_pagina{
+
+    display: flex;
+    width: 550px;
+    height: 830;
+}
+
+.imagen_principal{
+
+    display: flex;
+    width: 650px;
+    height: 150px;
+    
+}
+
+.compra1{
+
+    display: flex;
+    flex-wrap: wrap;
+    width: 148px;
+    height: 170px;
+    justify-content: center;
+    align-items: center;
+    padding: 13px ;
+    border: solid 1px black;
+}
+
+.seleccion{
+
+    background-color: #980133;
+}
+
+.SORT{
+
+    position: absolute;
+    margin-top: 148px;
+    border: solid 1px;
+}
+
+.espacio_blanco{
+
+    display: flex;
+    position: absolute;
+    margin-top: 148px;
+    margin-left: 40px;
+    width: 547px;
+    border: solid 1px;
+}
+
